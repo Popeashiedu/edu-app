@@ -40,7 +40,13 @@ body{
     background-image: url(../images/edu-bg.png);
     background-size: 50%;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: 100% 50%;
+}
+.header-col{
+    margin-top: 8%!important;
+}
+.header-col button{
+    margin-top: 5%!important;
 }
 .desktop-features{
     display: none!important;
