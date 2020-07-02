@@ -34,6 +34,7 @@ body{
 }
 .header-background{
     background-color: #bcf9ff;
+    height: 85vh;
 }
 .header-row{
     background-image: url(../images/edu-bg.png);
