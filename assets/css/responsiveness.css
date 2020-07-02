@@ -9,6 +9,9 @@
         max-width: 80%!important;
         margin-top: -5%!important;
     }
+    .mobile-feature img{
+        max-width: 100%;
+    }
 }
 @media all and (max-width: 567px){
     .header-container h1{
