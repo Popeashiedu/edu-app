@@ -1,5 +1,6 @@
 *{
     scroll-behavior: smooth;
+    /* border: solid 1px red; */
 }
 
 body{
@@ -106,6 +107,10 @@ body{
 }
 .image-2{
     margin-top: -3%;
+}
+.abc{
+    max-width: 80%!important;
+    margin-top: -25%!important;
 }
 /* DOWNLOAD SECTION ENDS  */
 
