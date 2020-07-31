@@ -72,12 +72,10 @@
     }
     /* NAVBAR STARTS  */
 /* HEADER STARTS  */
-.header-background{
-    /* height: 100vh; */
-}
-.header-row{
+
+/* .header-row{
     height: 80vh;
-}
+} */
 .header-col{
     margin-top: 14%!important;
 
@@ -137,10 +135,6 @@
     }
 }
 @media all and (min-width: 1400px) {
-    .header-col{
-        margin-top: 20%!important;
-    
-    }
     .header-kids{
         max-width: 35%;
         margin-left: -45%;

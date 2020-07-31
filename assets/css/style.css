@@ -19,6 +19,9 @@ body{
 .navbar{
     background-color: white!important;
 }
+.active{
+    font-weight: bold;
+}
 .navbar a{
     color: #003460!important;
     font-size: 20px;
@@ -32,12 +35,16 @@ body{
     color: white;
     background-color: #003460;
 }
+.edu-buy-btn:hover{
+    color: white;
+    background-color: #003460;
+}
 .header-background{
     background-color: #bcf9ff;
     /* height: 85vh; */
 }
 .header-row{
-    background-image: url(../images/edu-bg.png);
+    background-image: url(../images/edu-bg.pn,g);
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: 100% 60%;
